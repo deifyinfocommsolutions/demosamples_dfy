@@ -1,2 +1,1 @@
-# demosamples_dfy
-Demo Samples Portal for iBeads
+Demo Samples Portal for ibeads
